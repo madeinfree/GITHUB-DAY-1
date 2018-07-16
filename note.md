@@ -35,6 +35,11 @@ note.md
 
 # 查看 commit 紀錄(log)
 > git log
+
+# 暫時儲存目前改動的東西
+> git stash
+# 刪除 stash 暫存的檔案
+> git stash drop 0
 ```
 
 ## 移除不需要的東西 .gitignore
