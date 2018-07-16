@@ -32,6 +32,9 @@ note.md
 
 # 回到上一動
 > git reset
+
+# 查看 commit 紀錄(log)
+> git log
 ```
 
 ## 移除不需要的東西 .gitignore
