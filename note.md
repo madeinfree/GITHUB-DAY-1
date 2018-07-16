@@ -38,8 +38,13 @@ note.md
 
 # 暫時儲存目前改動的東西
 > git stash
-# 刪除 stash 暫存的檔案
+# 刪除 stash 暫存
 > git stash drop 0
+# 取出 stash 內容
+> git stash pop
+
+# 清除改動內容
+> git checkout -- note.md
 
 # 關鍵字 rebase
 > git rebase origin/master
