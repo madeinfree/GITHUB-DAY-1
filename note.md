@@ -40,6 +40,9 @@ note.md
 > git stash
 # 刪除 stash 暫存的檔案
 > git stash drop 0
+
+# 關鍵字 rebase
+> git rebase origin/master
 ```
 
 ## 移除不需要的東西 .gitignore
